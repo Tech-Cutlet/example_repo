@@ -1,3 +1,5 @@
+// adding a comment
+
 #include <stdio.h>
 
 int main() {
